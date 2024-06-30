@@ -10,6 +10,11 @@ h1{
     font-weight: 800;
 }
 
+h1:hover{
+    color:hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+
 /* Styling of the container with grid */
 
 .container{
