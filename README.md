@@ -31,6 +31,9 @@ Users should be able to:
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+I have build this with vanilla CSS, and practicing Grid.
+I have just changed from flex to grid, so there is some practice to do.
+
 
 ### Built with
 
@@ -47,6 +50,8 @@ Users should be able to:
 
 
 ### Useful resources
+
+- https://css-tricks.com/snippets/css/complete-guide-grid/
 
 ## Author
 
