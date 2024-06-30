@@ -18,12 +18,14 @@
 
 ### The challenge
 
+
 Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
 
+![Skærmbillede 2024-06-30 123349](https://github.com/logstrup78/FrontEndMentor-BlogPreviewCard/assets/61208095/17a20dc0-a0fb-45c7-891c-936df679a793)  
 
 ### Links
 
