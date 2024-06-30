@@ -28,9 +28,9 @@ h1:hover{
     display: grid;
     background-color: white;
     grid-template-rows: 2fr 2fr 32px;
-    grid-template-areas: "image" 
-                        "content" 
-                        "author";
+    grid-template-areas: "Image" 
+                        "Content" 
+                        "Author";
                         
     max-width: 327px;
     row-gap: 1em;
