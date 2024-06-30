@@ -33,6 +33,7 @@ h1:hover{
                         "Author";
                         
     width: 327px;
+    height: 522px;
     row-gap: 24px;
     padding: 24px;
     border-radius: 20px;
@@ -103,4 +104,7 @@ button{
        
         width: 384px; 
            }
+    h1{
+        font-size: 24px;
+    }
 }
